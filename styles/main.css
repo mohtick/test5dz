@@ -1,0 +1,64 @@
+h1 {
+	color: rgb(60, 179, 113);
+	text-align: center;
+}
+
+img {
+	border: 5px solid rgb(60, 179, 113);
+}
+
+h2 {
+	color: rgb(106, 90, 205);
+	text-align: center;
+}
+
+.level2 {	
+	border: 2px solid rgb(106, 90, 205);
+	padding: 5px;
+	width: fit-content;
+  	height: fit-content;
+}
+
+
+h3 {
+	color: rgb(255, 165, 0);
+	text-align: center;
+}
+
+.level3 {
+	width: 600px;
+  	height: 300px;
+	background-image: url("https://1000logos.net/wp-content/uploads/2017/05/Color-YouTube-logo-500x277.jpg");
+	background-repeat: no-repeat;
+    	background-size: cover;	
+	border: 5px solid rgb(255, 165, 0);
+		
+}
+
+
+h4 {
+	color: rgb(255, 0, 0);
+	text-align: center;
+}
+
+.level4:hover {
+	width: 400px;
+  	height: 200px;
+	background-image: url("https://1000logos.net/wp-content/uploads/2017/05/Color-YouTube-logo-500x277.jpg");
+	background-repeat: no-repeat;
+    	background-size: cover;	
+	border: 4px solid rgb(255, 0, 0);
+		
+}
+
+.level4 {
+	width: 400px;
+  	height: 200px;
+	background-image: url("https://1000logos.net/wp-content/uploads/2017/05/Color-YouTube-logo-500x277.jpg");
+	background-repeat: no-repeat;
+    	background-size: cover;	
+	border: 4px solid transparent;
+		
+}
+
+
